@@ -5,3 +5,4 @@ today is 11/26
 Creating a new branch is quick and simple.
 test non ff
 test merge again
+bug is fix
